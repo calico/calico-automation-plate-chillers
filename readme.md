@@ -6,10 +6,28 @@ These have been used on several different automation systems, operating for many
 
 Condensation is the main problem - especially if the chillers are running for many hours.  The closed cell foam helps a lot for the sides of the cold blocks, but the plate adapters can fill with water if no plate is in them.  This can be a problem if you're moving plates in and out of the cold towers with a robot arm.  It is less of an issue for static, non-moving, plates.
 
-# Chillers
+# Designs
+
+1. [4 Position Cold Tower](https://github.com/Robert-Keyser-Calico/calico-automation-plate-chillers/tree/main/4%20Position%20Cold%20Tower) 
+
+<img src="4 Position Cold Tower/4PosTowerRender.JPG" alt="drawing" width="300"/>
+
+2. [6 Position Cold Tower](https://github.com/Robert-Keyser-Calico/calico-automation-plate-chillers/tree/main/6%20Position%20Cold%20Tower) 
+
+<img src="6 Position Cold Tower/6PositionTowerRender.png" alt="drawing" width="300"/>
+
+3. [Bravo Plate Cold Block](https://github.com/Robert-Keyser-Calico/calico-automation-plate-chillers/tree/main/Bravo%20Plate%20Cold%20Block) 
+
+<img src="Bravo Plate Cold Block/BravoPlateColdBlockInPlace.jpg" alt="drawing" width="300"/>
+
+4. [Vantage Cold Carrier](https://github.com/Robert-Keyser-Calico/calico-automation-plate-chillers/tree/main/Vantage%20Cold%20Carrier)
+
+<img src="Vantage Cold Carrier/Fancy Render.JPG" alt="drawing" width="300"/>
+
+# Recirculating Chillers
 We typically use Huber Minichiller 300's for these.  
 
-<img src="HuberMiniChiller.jpg" alt="drawing" width="300"/>
+<img src="HuberMinichiller.jpg" alt="drawing" width="300"/>
 
 
 # Sealant and Gaskets
