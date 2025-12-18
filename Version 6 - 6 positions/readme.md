@@ -1,10 +1,6 @@
-# Bravo Plate Cold Block
+# 6 Position Cold Tower
 Description:
 This is a single position chiller originally developed by Travis Lee.  It fits onto a Bravo plate pad and we made several for molecular biology workflows like RNAseq library prep for NGS.  
-
-We've daisy-chained multiple blocks off of the same chiller line in the past and it has worked well.  
-
-![Bravo Cold Block](BravoPlateColdBlockInPlace.jpg)
 
 
 Assembly:
@@ -16,4 +12,4 @@ Assembly:
 
 
 Possible Improvements:
-- Adding a chamfer around the edges of the channel in the CHILLED-POSITION-BODY would probably make the sealant more effective and less leak-prone while assembling
+- Adding a chamfer around the edges of the channel in the CHILLED-POSITION-BODY would probably make the sealant more effective.  
