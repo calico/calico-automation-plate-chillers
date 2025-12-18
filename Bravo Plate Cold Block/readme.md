@@ -14,6 +14,10 @@ Assembly:
 - Once the main body is sealed and there are no leaks, wrap the block in the 6mm thick foam strip
 - Cut off sections of the foam strip for mounting into the Bravo plate pad
 
+![exploded view 1](ExplodedRender_001.JPG)
+
+![exploded view 2](ExplodedRender_002.JPG)
+
 
 Possible Improvements:
 - Adding a chamfer around the edges of the channel in the CHILLED-POSITION-BODY would probably make the sealant more effective and less leak-prone while assembling

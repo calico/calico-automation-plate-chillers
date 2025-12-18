@@ -1,6 +1,7 @@
-# 4 Position Cold Tower
+# 6 Position Cold Tower
 Description:
-This is a 4-shelf cold tower that can be bolted into a robotic integration.  We were using an Agilent DDR arm, but any arm should be able to reach in and pick/place plates from the nests.  Condensation can be a real issue with these - it's best to put dummy plates on any of the unused location, or any location where the plate will be removed for a long time.  
+
+This is a 6-shelf cold tower that can be bolted into a robotic integration.  We were using an Agilent DDR arm, but any arm should be able to reach in and pick/place plates from the nests.  Condensation can be a real issue with these - it's best to put dummy plates on any of the unused location, or any location where the plate will be removed for a long time.  
 
 ![Assembled Cold Tower](AssembledTowerImage.jpg)
 
@@ -13,8 +14,7 @@ Assembly:
 - Once the main body is sealed and there are no leaks, assemble the rest of block cover and pedistal parts, then wrap the block in the 3mm thick foam strip
 
 
-
-![exploded view 1](4PosTowerRender.JPG)
+![exploded view 1](6PositionTowerRender.png)
 
 
 Possible Improvements:
