@@ -3,8 +3,7 @@
 ## Design Files
 - [x] All native CAD files (.SLDPRT, .SLDASM) are included.
 - [x] All assemblies open without errors.
-- [x] All parts are fully constrained and defined.
-- [ ] All custom properties (e.g., material, part number) are filled out.
+- [ ] All the mcmaster parts are included
 
 ## Manufacturing Files
 - [x] 2D drawings (.SLDDRW) are created for all manufactured parts.
