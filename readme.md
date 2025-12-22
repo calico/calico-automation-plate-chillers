@@ -50,3 +50,7 @@ The tower takes ~1hour to cool down to this temperature, and the recirculating c
 <img src="Position6Temp_001.bmp" alt="drawing" width="600"/>
 
 <img src="Position1Temp.bmp" alt="drawing" width="600"/>
+
+# License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
