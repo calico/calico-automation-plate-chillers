@@ -35,3 +35,18 @@ Silicone RTV sealant typically works well for these and has been stable, leak fr
 ) work well.  
 
 I've also tried laser cut rubber gaskets, but frequently get leaks from them.  The [Loctite Gasket Design Guide](/Gasketing%20Design%20Guide-Final_LR.pdf) was very helpful.  
+
+
+# Characterization / Validation
+Our process requirements were quite relaxed for these devices.  The intent was to keep the material in the plates ~2-4C - but not to achieve a specific temperature.  We did want to make sure that the cooling was uniform across the plate so that any well-to-well differences could be minimized.  
+
+To measure the temperature across a plate on the chillers, we used an Dwyer Omega Temperature Logger (OM-HL-EH-TC-Series, 8-Channel Handheld Thermocouple Thermometer/Data Logger) and 8 k-type thermocouples.  The thermocouples were welded into wells of an Eppendorf TwinTec PCR plate with thermally conductive epoxy.  
+
+The top temperature trace was measured on the top shelf (near the cooland input) of the 6 Position Tower, the bottom trace is from the bottom shelf (near the coolant exit). Both shelves show good uniformity across the plate, or at least as uniform as can be shown with 8 probes. The shelf next to the input is a full degree cooler though.  
+
+The tower takes ~1hour to cool down to this temperature, and the recirculating chiller seems to have plenty of capacity to keep the tower at this consistent temperature.  
+
+
+<img src="Position6Temp_001.bmp" alt="drawing" width="600"/>
+
+<img src="Position1Temp.bmp" alt="drawing" width="600"/>
