@@ -12,6 +12,7 @@ Assembly:
 - Screw on the cover plate, make sure to start from the middle of the block and then move to the outer screws, tighten them slowly and evenly 
 - Wait 24hrs for the sealant to cure before testing - don't assemble the rest until you're sure there are no leaks, you might have to separate the block and cover and reseal it if there are leaks
 - Once the main body is sealed and there are no leaks, assemble the rest of block cover and pedistal parts, then wrap the block in the 3mm thick foam strip
+- The COLD-TOWER-MAIN-BASE-EXTENSION-INSULATION-v001.pdf is a laser cutting template for the closed-cell foam between the two base plates, this can also be made by hand with a sharp knife
 
 
 ![exploded view 1](6PositionTowerRender.png)

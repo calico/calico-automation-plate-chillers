@@ -31,8 +31,8 @@ We typically use Huber Minichiller 300's for these.
 
 
 # Sealant and Gaskets
-Silicone RTV sealant typically works well for these and has been stable, leak free for many years.  These [dispensers](https://www.mcmaster.com/75075A68/
-) work well.  
+Silicone RTV sealant typically works well for these and has been stable, leak free for many years.  These [dispensers](/Silicone%20Sealant,%206.5%20FL.%20oz.%20Nozzle-Top%20Can,%20Clear%20_%20McMaster-Carr.pdf)
+from McMaster-Carr work well.  
 
 I've also tried laser cut rubber gaskets, but frequently get leaks from them.  The [Loctite Gasket Design Guide](/Gasketing%20Design%20Guide-Final_LR.pdf) was very helpful.  
 
