@@ -35,7 +35,7 @@ Condensation is the main problem - especially if the chillers are running for ma
 
 <br>
 
-5. [Reagent Tube Chiller for Formulatrix Mantis](https://github.com/Robert-Keyser-Calico/calico-automation-plate-chillers/tree/main/Vantage%20Cold%20Carrier)
+5. [Reagent Tube Chiller for Formulatrix Mantis](https://github.com/Robert-Keyser-Calico/calico-automation-plate-chillers/tree/main/Reagent%20Tube%20Chiller)
 
 <img src="Reagent Tube Chiller/reagent_tube_chiller_block.png" alt="drawing" width="300"/>
 
